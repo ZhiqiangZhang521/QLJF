@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="docs/assets/qjm-banner.png" alt="Quantum Joint Measurement — Multimodal Emotion Recognition" width="100%">
+  <img src="docs/assets/qljf-banner.png" alt="Quantum Local–Joint Fusion — Multimodal Emotion Recognition" width="100%">
 </p>
 
-# Quantum Joint Measurement
+# QLJF — Quantum Local–Joint Fusion
 
 Multimodal Emotion Recognition
 
